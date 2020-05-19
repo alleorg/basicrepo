@@ -1,0 +1,2 @@
+# basicrepo
+A simple repo
